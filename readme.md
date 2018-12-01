@@ -1,8 +1,8 @@
-# BIP39 Tool
+# BIP39 工具
 
-A tool for converting BIP39 mnemonic phrases to addresses and private keys.
+一个将BIP39助记词转换为数字货币地址、私钥的工具
 
-## Online Version
+## 在线版本
 
 https://www.sigoo.com/tools/bip39/
 
